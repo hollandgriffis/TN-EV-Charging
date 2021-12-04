@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignored directories
+./data
+./do_not_upload
+./docs
+./Docs
+#
+#
 # Distribution / packaging
 .Python
 build/
