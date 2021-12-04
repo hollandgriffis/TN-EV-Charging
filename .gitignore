@@ -7,10 +7,10 @@ __pycache__/
 *.so
 
 # Ignored directories
-./data
-./do_not_upload
-./docs
-./Docs
+data/*
+do_not_upload/*
+docs/*
+Docs/*
 #
 #
 # Distribution / packaging
