@@ -16,8 +16,8 @@ I have been interested in EV’s and alternative energy in general (non fossil f
 
 # Tools Used
 
-Python/Pandas - for exploration and agregation of the Data
+Python/Pandas - for exploration and agregation of the Data.
 PostgreSQL/SQL - to serve as a repository for the data used and to do initial exploration of the Data. SQLAlchemy python package was used to interface between Python and PostgreSQL.
-Geopandas and Folium - used for mapping
+Geopandas and Folium - used for mapping.
 
 This is still a work in progress.
